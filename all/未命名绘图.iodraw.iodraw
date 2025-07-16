@@ -67,7 +67,7 @@
           <mxGeometry x="165" y="450" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-26" value="&lt;ul style=&quot;padding-left: 30px;&quot;&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="275" width="100" height="80" as="geometry" />
+          <mxGeometry x="579" y="275" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
