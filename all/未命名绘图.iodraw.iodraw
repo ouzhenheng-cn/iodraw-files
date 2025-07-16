@@ -141,7 +141,7 @@
           <mxGeometry x="417" y="535" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-57" value="血流动力学稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="355" width="61" height="35" as="geometry" />
+          <mxGeometry x="400" y="355" width="94" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
