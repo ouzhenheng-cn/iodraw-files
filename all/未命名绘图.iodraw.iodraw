@@ -99,8 +99,8 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-44" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="183" y="660" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-45" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="720" width="200" height="80" as="geometry" />
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-45" value="宽QRS心动过速" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="97" y="700" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
