@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="753" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -141,10 +141,10 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-56" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="417" y="535" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-57" value="血流动力学稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;strokeColor=#CCE5FF;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;strokeWidth=2;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-57" value="血流动力学稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;strokeColor=none;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;strokeWidth=2;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="383" y="359" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-59" value="血流动力学不稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;strokeColor=#CCE5FF;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;strokeWidth=2;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-59" value="血流动力学不稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000000;strokeColor=none;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;strokeWidth=2;perimeterSpacing=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="426" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#FFFFFF;labelBackgroundColor=none;textShadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx6-NW5-L1GRnJQQpmOr-60" target="Fx6-NW5-L1GRnJQQpmOr-63">
