@@ -135,7 +135,10 @@
           <mxGeometry x="183" y="820" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-54" value="同步电复律&lt;div&gt;经食管心房调搏&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="477" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-56" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="417" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
