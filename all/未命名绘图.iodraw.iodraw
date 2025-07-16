@@ -54,11 +54,17 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx6-NW5-L1GRnJQQpmOr-9" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx6-NW5-L1GRnJQQpmOr-9" target="Fx6-NW5-L1GRnJQQpmOr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-9" value="迷走神经刺激" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;flipH=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="206" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-13" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="246" width="50" height="32" as="geometry" />
+          <mxGeometry x="270" y="246" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-14" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="216" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
