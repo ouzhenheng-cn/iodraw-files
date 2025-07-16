@@ -55,10 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-9" value="迷走神经刺激" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="110" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx6-NW5-L1GRnJQQpmOr-9" target="Fx6-NW5-L1GRnJQQpmOr-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="160" y="86" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
