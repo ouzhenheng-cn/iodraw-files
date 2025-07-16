@@ -49,7 +49,7 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-9" value="迷走神经刺激" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="208" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-13" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-13" value="无效" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="248" width="50" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-16" value="&lt;ul style=&quot;padding-left: 30px;&quot;&gt;&lt;li&gt;咽部刺激&lt;/li&gt;&lt;li&gt;Valsalva动作&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;labelPosition=center;verticalLabelPosition=middle;align=left;spacing=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
