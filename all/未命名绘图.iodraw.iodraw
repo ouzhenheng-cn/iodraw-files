@@ -149,8 +149,8 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-59" value="血流动力学不稳定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="426" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-60" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-60" value="机械循环支持" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="477" y="658" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
