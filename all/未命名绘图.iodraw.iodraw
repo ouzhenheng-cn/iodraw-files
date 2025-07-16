@@ -69,7 +69,7 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Fx6-NW5-L1GRnJQQpmOr-22" target="Fx6-NW5-L1GRnJQQpmOr-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-22" value="是否合并结构性心脏病" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-22" value="合并结构性心脏病" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="450" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-26" value="&lt;ul style=&quot;padding-left: 30px;&quot;&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -100,7 +100,7 @@
           <mxGeometry x="183" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-45" value="宽QRS心动过速" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="97" y="700" width="200" height="60" as="geometry" />
+          <mxGeometry x="83" y="700" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
