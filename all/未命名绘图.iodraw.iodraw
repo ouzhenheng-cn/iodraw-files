@@ -81,8 +81,8 @@
         <mxCell id="Fx6-NW5-L1GRnJQQpmOr-31" value="静脉应用胺碘酮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="297" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="Fx6-NW5-L1GRnJQQpmOr-37" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="183" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
